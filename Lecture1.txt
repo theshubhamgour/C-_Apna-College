@@ -1,0 +1,39 @@
+/*
+
+1. Introduction to C++ | Data Structures and Algorithms | College Placement Course | Lecture 1
+    Video Link: "   https://youtu.be/z9bZufPHFLU    "
+    Channel name: Apna College
+    Notes by @theshubhamgour
+*/
+
+    **Introduction to Programming Languages **
+
+        A program is a set of instructions that tells a computer what to do in order to come up with
+        a solution to a particular problem. Programs are written using a programming language. In nutshell Programs are set of instructions.
+
+    **Compiler vs Interpreter**
+
+        Compiler:
+                    A compiler is a computer program that translates a program written in a high-level language
+        to the machine language of a computer.
+        The high-level program is referred to as 'the source code.' The compiler is used to translate
+        source code into machine code or compiled code.
+
+        Interpreter:
+                        An interpreter is a computer program that directly executes instructions written in
+        a programming language, without requiring them previously to have been compiled into
+        a machine language program. 
+
+    **Intoduction to C++ Programming language**
+
+            C++ is a cross-platform language that can be used to create high-performance applications.
+            It was developed by Bjarne Stroustrup, as an extension to the C language
+
+            Why Use C++?
+            1. C++ is one of the world's most popular programming languages.
+            2. C++ can be found in today's operating systems, Graphical User Interfaces, and
+            embedded systems.
+            3. C++ is an object-oriented programming language which gives a clear structure to
+            programs and allows code to be reused, lowering development costs.
+            4. C++ is portable and can be used to develop applications that can be adapted to
+            multiple platforms.
