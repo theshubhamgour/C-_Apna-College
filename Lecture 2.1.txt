@@ -1,0 +1,55 @@
+/*
+
+2.1 Data Types & Type Modifiers | Data Structures & Algorithms Course in C++ | Lecture 2.1
+    Video Link: "   https://youtu.be/cnT1oW5_ePM    "
+    Channel name: Apna College
+    Notes by @theshubhamgour
+*/
+
+**Variables**
+    A variable is a container (storage area) used to hold data or store information.
+    Each variable should be given a unique name (identifier).
+    int a=2;
+    Here a is the variable name that holds the integer value 2.
+    The value of a can be changed, hence the name variable.
+
+    __Rules for defining Variables__
+        1. Can only have alphabets, numbers and underscore.
+        2. Cannot begin with a number.
+        3. Cannot begin with an uppercase character.
+        4. Cannot be a keyword defined in C++ language (like int is a keyword).
+
+
+**Fundamental Data Types in C++ **
+        1. int:
+                x This data type is used to store integers.
+                x It occupies 4 bytes in memory.
+                x It can store values from -2147483648 to 2147483647.
+                Eg. int age = 18
+
+        2. float and double
+                x Used to store floating-point numbers (decimals and exponentials)
+                x Size of float is 4 bytes and size of double is 8 bytes.
+                x Float is used to store upto 7 decimal digits whereas double is used
+                to store upto 15 decimal digits.
+                Eg. float pi = 3.14
+                double distance = 24E8 // 24 x 108
+        3. char
+                x This data type is used to store characters.
+                x It occupies 1 byte in memory.
+                x Characters in C++ are enclosed inside single quotes
+                x ASCII code is used to store characters in memory.
+                Eg͘ char ch с ͚= 'a'
+        4. bool
+                x This data type has only 2 values _ true and false.
+                x It occupies 1 byte in memory.
+                x True is represented as 1 and false as 0.
+                Eg. bool flag = false
+                
+**Derived Data Types**
+        These are the data types that are derived from fundamental (or built-in) data
+        types. For example, arrays, pointers, function, reference.
+
+**User-Defined Data Types**
+        These are the data types that are defined by user itself.
+        For example, class, structure, union, enumeration, etc
