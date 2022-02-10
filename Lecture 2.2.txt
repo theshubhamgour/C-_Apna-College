@@ -1,0 +1,70 @@
+/*
+
+2.2 Input/Output in C++ | Data Structures and Algorithm Course in C++ | Lecture 2.2
+    Video Link: "   https://youtu.be/7dPdMtBX1d8    "
+    Channel name: Apna College
+    Notes by @theshubhamgour
+*/
+
+'''
+
+// Hello world program in C++
+#include<iostream>
+using namespace std;
+int main()
+{
+ cout << "Hello World!\n";
+ return 0;
+}
+
+
+'''
+
+**In the above program:
+        1. Comments
+                    The two slash(//) signs are used to add comments in a program. It does
+                    not have any effect on the behaviour or outcome of the program. 
+
+        2. #include<iostream>
+                    #include is the pre-processor directive that is used to include files in our
+                    program. Here we are including the iostream standard file which is
+                    necessary for the declarations of basic standard input/output library in
+                    C++.
+
+        3. Using namespace std
+                    All elements of the standard C++ library are declared within namespace.
+
+        4. int main()
+                    The execution of any C++ program starts with the main function, hence it
+                    is necessary to have a main function in your program. ‘int’ is the return
+                    value of this function. 
+
+        5. {}
+                    The curly brackets are used to indicate the starting and ending point of
+                    any function. 
+
+        6. cout<<”Hello World!\n”;
+
+                    cout represents the standard output stream in
+                    The text between quotations will be printed on the screen.
+                    \n will not be printed, it is used to add line break.
+                    Each statement in C++ ends with a semicolon (;)
+
+        7. return 0;
+                    return signifies the end of a function. We are returning 0 because we
+                    mentioned the return type of main function as integer (int main). A zero
+                    indicates that everything went fine and a one indicates that something
+                    has gone wrong.
+
+***Standard Output (cout)***
+         
+          By default, the standard output of a program points at the screen. So with the
+         cout operator and the “insertion” operator (<<) you can print a message onto
+         the screen.
+
+It is possible to use the endl manipulator instead of the new-line character.
+
+**Standard input (cin)**
+         
+          In most cases the standard input device is the keyboard. With the cin and >>
+         operators it is possible to read input from the keyboard.
