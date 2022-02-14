@@ -1,0 +1,33 @@
+/*
+
+2.3 If/else statement in C++ programming | Data Structure and Algorithm Course | Lecture 2.3
+    Video Link: "   https://youtu.be/cyB3HNlQyjY    "
+    Channel name: Apna College
+    Notes by @theshubhamgour
+*/
+
+**Loops in C++***
+
+A loop is used for executing a block of statements repeatedly until a particular
+condition is satisfied. 
+
+___for loop: 
+            The syntax of the for loop is:
+                                for (initialization; condition; update) {
+                                      // body of-loop
+                                }
+
+__while loop:
+            The syntax for while loop is
+                                    while (condition) {
+                                    // body of the loop
+                                }
+
+__do͙͘ǁhile loop
+            The syntax for while loop is
+                                    do {
+                                    // body of loop;
+                                    }
+                                    while (condition);
+
+Related program with this txt are named as Lecture241.cpp,Lecture242.cpp,Lecture243.cpp and so on....
