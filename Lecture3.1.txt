@@ -1,0 +1,21 @@
+/*
+
+3.1 Break and Continue statement in C++ Programming | Guaranteed Placement Course | Lecture 3.1
+    Video Link: "   https://youtu.be/Stf7KBiA1vs    "
+    Channel name: Apna College
+    Notes by @theshubhamgour
+*/
+
+***Jumps in Loops ***
+There are two statements
+used to implement jump in loops - Continue and Break
+
+__1. Continue
+            Continue statement is used to skip to the next iteration of that loop. This
+            means that it stops one iteration of the loop. All the statements present
+            after the continue statement in that loop are not executed
+
+___2. Break
+            Break statement is used to terminate the current loop. As soon as the break
+            statement is encountered in a loop, all further iterations of the loop are
+            stopped and control is shifted to the first statement after the end of loop
