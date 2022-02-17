@@ -1,0 +1,64 @@
+/*
+
+3.3 Operators in C++ Programming | Guaranteed Placement Course | 3.3
+    Video Link: "   https://youtu.be/JBgZxnAj4hg    "
+    Channel name: Apna College
+    Notes by @theshubhamgour
+*/
+
+
+**Operators in C++**
+
+Operators are nothing but symbols that tell the compiler to perform some
+specific operations. Operators are of the following types -
+
+**1. Arithmetic Operators
+        Arithmetic operators perform some arithmetic operation on one or two
+        operands. Operators that operate on one operand are called unary
+        arithmetic operators and operators that operate on two operands are
+        called binary arithmetic operators.
+        +,-,*,/,% are binary operators.
+        ++, -- are unary operators.
+
+
+**Pre-incrementer : It increments the value of the operand instantly.
+
+**Post-incrementer : It stores the current value of the operand temporarily
+and only after that statement is completed, the value of the operand is
+incremented.
+
+**Pre-decrementer : It decrements the value of the operand instantly.
+
+**Post-decrementer : It stores the current value of the operand temporarily
+and only after that statement is completed, the value of the operand is
+decremented.
+
+
+
+**2.Relational Operators
+Relational operators define the relation between 2 entities.
+They give a boolean value as result i.e true or false.
+
+
+
+**3.Logical Operators
+Logical operators are used to connect multiple expressions or conditions
+together. (&& , ||, !)
+
+        If we need to check whether a number is divisible by both 2 and 3, we will
+        use AND operator
+        (num%2==0) && num(num%3==0)
+        If this expression gives true value then that means that num is divisible by
+        both 2 and 3.
+        (num%2==0) || (num%3==0)
+        If this expression gives true value then that means that num is divisible by
+        2 or 3 or both.
+
+
+
+**4. Bitwise Operators
+
+        Bitwise operators are the operators that operate on bits and perform bit-
+        by-bit operations.
+
+
